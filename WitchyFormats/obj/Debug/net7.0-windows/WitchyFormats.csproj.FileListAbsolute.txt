@@ -1,0 +1,16 @@
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\WitchyFormats.deps.json
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\WitchyFormats.dll
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\WitchyFormats.pdb
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\SoulsFormats.dll
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\SoulsFormats.pdb
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\bin\Debug\net7.0-windows\SoulsFormats.xml
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.csproj.AssemblyReference.cache
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.AssemblyInfoInputs.cache
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.AssemblyInfo.cs
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.csproj.CoreCompileInputs.cache
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.csproj.CopyComplete
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.dll
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\refint\WitchyFormats.dll
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\WitchyFormats.pdb
+C:\Users\raine\RiderProjects\ER.Randomizer\WitchyFormats\obj\Debug\net7.0-windows\ref\WitchyFormats.dll
