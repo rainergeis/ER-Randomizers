@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6q9SViVPnLMbtztA4GuRCCTC39/MxCQCIaGTZk9PuyRNipg3nZuoOFj+fmBYX+8waNFNcXBy/wOjG0mKbRtwig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raine\\RiderProjects\\ER.Randomizer\\ER.Randomizer\\ER.Randomizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raine\\.nuget\\packages\\bouncycastle.cryptography\\2.2.0\\bouncycastle.cryptography.2.2.0.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\raine\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
